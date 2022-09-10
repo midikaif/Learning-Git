@@ -2,4 +2,6 @@
 
 Some description!!
 
-why are you doing this
+## Local development
+
+1. Open index.html in your browser
